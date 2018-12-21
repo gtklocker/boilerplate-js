@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "bmocha": "^0.1.8"
+  },
+  "main": "./lib/num2bits.js",
+  "scripts": {
+    "test": "bmocha test/*.js"
+  }
+}
