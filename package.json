@@ -6,7 +6,7 @@
   "scripts": {
     "test": "bmocha test/*.js"
   },
-  "name": "greenfield",
+  "name": "boilerplate",
   "version": "1.0.0",
   "description": "TODO",
   "directories": {
@@ -17,12 +17,12 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gtklocker/greenfield-js.git"
+    "url": "git+https://github.com/gtklocker/boilerplate-js.git"
   },
   "author": "Kostis Karantias <kkarantias@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gtklocker/greenfield-js/issues"
+    "url": "https://github.com/gtklocker/boilerplate-js/issues"
   },
-  "homepage": "https://github.com/gtklocker/greenfield-js#readme"
+  "homepage": "https://github.com/gtklocker/boilerplate-js#readme"
 }
