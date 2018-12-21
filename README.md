@@ -31,5 +31,5 @@ I don't know why you'd want to but sure, if that's your jam, make a PR. We'll ha
 ## Acknowledgments
 
 * [Thanks `jest` for giving me gray hair](https://github.com/facebook/jest/issues/2441).
-* [Thanks TypeScript for doing all you could but still giving me gray hair](https://github.com/NagRock/ts-mockito/issues/112)
+* [Thanks TypeScript for doing all you could but still giving me gray hair](https://github.com/NagRock/ts-mockito/issues/112).
 * Thanks to all my colleagues who've spent countless hours putting up with me complaining about all software being broken.
