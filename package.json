@@ -5,5 +5,24 @@
   "main": "./lib/num2bits.js",
   "scripts": {
     "test": "bmocha test/*.js"
-  }
+  },
+  "name": "greenfield",
+  "version": "1.0.0",
+  "description": "TODO",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "files": ["/lib"],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtklocker/greenfield-js.git"
+  },
+  "author": "Kostis Karantias <kkarantias@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gtklocker/greenfield-js/issues"
+  },
+  "homepage": "https://github.com/gtklocker/greenfield-js#readme"
 }
