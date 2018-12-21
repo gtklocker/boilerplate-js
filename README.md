@@ -12,6 +12,11 @@ npm i
 
 Edit `package.json` with your own name/urls and start working right away. You may want to remove the `.git/`, and even this `README.md`. Don't feel guilty, go ahead.
 
+## Features
+
+- **Testing**: We use [bmocha](https://github.com/bcoin-org/bmocha/), a lightweight implementation of mocha. It has no dependencies and it's fast.
+- **Ready to Publish**: You probably only want to publish the code that lives in `lib/`. We've taken care of that for you. No one downloading your NPM package needs to see your cat gifs and videos or test fixtures.
+
 ## Structure
 
 Stop bikeshedding. Get going by following these conventions I just made up. Some people use them, but you shouldn't care. Don't be afraid to stand out.
